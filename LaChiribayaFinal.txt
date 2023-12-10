@@ -1,0 +1,103 @@
+<html>
+
+  <head>
+  <title> La Chiribaya </title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500&family=Kalnia:wght@400;500&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>    
+  h2{
+            
+  font-family: 'Jost', sans-serif;    
+  }
+
+    
+  </style>
+  </head>
+  <body bgcolor="#000000">
+ 
+   <div align="center">
+     <h1 style="color:#FFFFFF">La Chiribaya</h1>
+     <p style="color:#FFFFFF" height="150"><style>    
+  h1{
+            
+  font-family: 'Jost', sans-serif;    
+  }
+
+    
+  </style>Vive la experiencia del café Ancestral</p>
+    <div align="center">
+     <img src="images/logo.jpeg" height="200">
+<div class="social">
+<a href="https://www.instagram.com/lachiribaya/?hl=es-la"><img src="images/ig.png" height="40"></a><a href="https://www.facebook.com/lachiribaya"><img src="images/face1.png" height="40"></a><a href="https://api.whatsapp.com/send?phone=51932222013"><img src="images/whasa.png" height="40"></a>
+</div>
+
+<video source src="images/lachivid.mp4" width="600" height="450" autoplay muted controls></video>
+
+<div class="container" display: flex;>
+           <h2 style="color:#FFFFFF">Especiales de este mes</h2>
+           <p style="color:#FFFFFF" class="txt-p">
+           ¡Descubre el sabor único de la temporada Navideña en La Chiribaya!
+           </p>
+             <img src="images/keke.jpg" width="350px">
+             <img src="images/empa.jpg" width="350px">
+             <img src="images/frap.jpg" width="350px">
+            </div>
+
+<div align="center">
+<div class="café-content container"> 
+            <h2 style="color:#FFFFFF">Carta - Invierno</h2>
+            <p style="color:#FFFFFF" class="txt-p">
+            Contamos con diversos tipos de pócimas calientes y frías,
+            </p>
+            <p style="color:#FFFFFF" class="txt-p"> 
+            que puedes personalizar si es que lo deseas y que también puedes 
+            </p>
+            preferir sin café o con alcohol (+18). 
+            </p>
+            <p style="color:#FFFFFF" class="txt-p">
+            También contamos con diversas especialidades de amarres dulces y salados
+            </p>  
+            <p style="color:#FFFFFF" class="txt-p"> 
+            para que nuestro cliente pueda disgustar, como tortas, waffles, pasteles, 
+            </p>
+            <p style="color:#FFFFFF" class="txt-p">
+            sánguches y empanadas.
+             </p>
+            <a href="https://drive.google.com/file/d/1jbkGzzlno0-skGDXmrTr6afmLYvJMicv/view" class="btn-1" style="color:#AFA191" height="150">¡Pulsa aquí y ve nuestra carta!</a>
+           <div class="contenedor">
+           
+            <div class="container" display: flex;>
+             <img src="images/pocali.png" width="350px">
+             <img src="images/pofri.png" width="350px">
+             <img src="images/amadul.png" width="350px">
+             <img src="images/amasala.png" width="350px">
+            </div>
+        <div>
+        <h2 style="color:#FFFFFF">Nuestro Horario</h2>
+        <p style="color:#FFFFFF">
+            Martes a Jueves
+        </p>
+        <p style="color:#FFFFFF">
+            8:30AM - 2PM & 4PM - 9PM
+        </p>
+        </div>
+        <img src="images/bolsita.jpg" class="imagen" width="100%" height="700" wigth: 350px; margin-left: 25px;
+</div>
+<section>
+  <h2 style="color:#FFFFFF">Ubícanos aquí</h2>
+  <p style="color:#FFFFFF" class="txt-p"> 
+  Ilo, Puerto | Jr. Callao 1100
+  </p>
+  <p style="color:#FFFFFF" class="txt-p"> 
+  (Espaldas casino Villa Fortuna)
+  </p>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3802.161596870182!2d-71.342279!3d-17.6425038!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91445b22d327a201%3A0x8d776de67072b96d!2sLa%20Chiribaya!5e0!3m2!1ses-419!2spe!4v1702186151018!5m2!1ses-419!2spe" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</section>
+</div>
+</style>
+ 
+           
+ </table>
+ </body>
+ </html>
